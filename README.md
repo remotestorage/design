@@ -1,13 +1,8 @@
 # remoteStorage Design
 
-This repo contains the project's design assets, like e.g the remoteStorage
-logo, design sketches, etc.. Please use Issues for questions, discussions and
-to-dos.
+This repository contains remoteStorage design assets, first and foremost the
+icon/logo.
 
-## Wiki page
-
-https://wiki.remotestorage.io/Design
-
-## License
-
-* remoteStorage logo: [Jan-Christoph Borchardt](http://jancborchardt.net), licensed under [Creative Commons Attribution Share-Alike](https://creativecommons.org/licenses/by-sa/4.0/)
+The logo may be used, integrated, and adapted for anything related to the
+[remoteStorage protocol](https://remotestorage.io/protocol/) or implementations
+of it.
